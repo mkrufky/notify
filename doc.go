@@ -15,7 +15,7 @@
 // a strategy for creating and closing filesystem watches and dispatching filesystem
 // events to user channels.
 //
-// An event set is just an event list joint using bitwise OR operator
+// An event set is just an event list joined using bitwise OR operator
 // into a single event value.
 // Both the platform-independent (see Constants) and specific events can be used.
 // Refer to the event_*.go source files for information about the available
